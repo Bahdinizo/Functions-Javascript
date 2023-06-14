@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(209, 27, 27);
+    text-align: center;
+    font-family: cursive;
+}
+
+h2{
+    color: aliceblue;
+}
+button{
+    color: aliceblue;
+    border: 30px, white;
+    border-radius: 20px;
+}
