@@ -12,3 +12,8 @@ button{
     border: 30px, white;
     border-radius: 20px;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
