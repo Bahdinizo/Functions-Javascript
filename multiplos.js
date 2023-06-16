@@ -18,9 +18,9 @@ function Multiplo5(){
 function Multiplo(x){
     var x = parseInt(document.getElementById('nota1').value);
     var contador = 0;
-    while(contador <= 1000){
-        document.write(contador + "," + "</br>");
-        contador = contador + x;
+        while(contador <= 1000){
+            document.write(contador + "," + "</br>");
+            contador = contador + x;
 
-    }
+        }
 }
